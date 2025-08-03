@@ -12,19 +12,19 @@ const SecondSection = () => {
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-[10px]">
         <ColourCard
           src="red.png"
-          alt="Rice cake wrapped in banana leaves boiling in a pot over open fire"
+          alt="A spoon with red jelly on a dark background."
           title="RED"
           description="Red foods remind us of berries and soft fruits, so we anticipate a sweet taste."
         />
         <ColourCard
           src="green.png"
-          alt="Person sorting food samples on a tiled table labeled with handwritten categories"
+          alt="A spoon with green jelly on a dark background."
           title="Green"
           description="Fresh, zingy green colours are reminiscent of unripe fruit, promising sour or acid flavours"
         />
         <ColourCard
           src="white.png"
-          alt="Tray of soft-boiled eggs with varying yolk textures on a dark background"
+          alt="A spoon with white jelly on a dark background."
           title="White"
           description="White foods evoke memories of salt and salty flavours, driving the expectation of a savoury treat."
         />
