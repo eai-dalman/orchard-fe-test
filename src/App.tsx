@@ -1,7 +1,11 @@
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+import FirstSection from "@/components/FirstSection";
+import SecondSection from "@/components/SecondSection";
 
-export default App
+const App = () => (
+  <>
+    <FirstSection />
+    <SecondSection />
+  </>
+);
+
+export default App;
