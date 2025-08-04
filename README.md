@@ -39,4 +39,11 @@ The app will be available at [http://localhost:5173](http://localhost:5173) by d
 - Supports Hot Module Replacement (HMR)
 - Includes ESLint configuration for code quality
 
+## 🧑‍💻 Why These Technologies?
+
+- **React**: Makes it easy to build modular, reusable components with a strong ecosystem and clear structure for interactive UIs.
+- **TypeScript**: Adds static typing to catch errors early and improve overall code quality and maintainability.
+- **Vite**: Delivers fast dev experience with instant hot reload and optimized production builds.
+- **Tailwind CSS**: Speeds up styling with utility classes and helps match designs quickly and consistently.
+
 ---
